@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'util.dart';
-import 'theme.dart';
+import 'package:chatapp/src/theme.dart';
+import 'package:chatapp/src/util.dart';
 
 void main() {
   runApp(const MyApp());
